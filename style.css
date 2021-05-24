@@ -37,7 +37,4 @@ body {
   position: absolute;
   z-index: 1;
 
-  #robot {
-    cursor: pointer;
-  }
 }
