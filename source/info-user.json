@@ -2,8 +2,7 @@
     {
         "id": 1,
         "name": "Hamilton",
-        "description" : "Mi Nombre es Hamilton Acevedo soy una persona que le gusta el desarrollo web y la nueva tecnología que no ofrece cada día con el pasar de los tiempos considero que todo uno lo puede aprender, pero si lo necesario para poder crea los proyectos lo suficiente mente apropiados para el usuario,
-        Pienso que al elegir ser ingeniero de sistemas y dedicarme a ello es que toda la vida que siga con esta carrera no voy a poder de para con lo maravillo que la ingeniería de sistema poder crear y brindarles información a las personas de la mejor manera posible",
+        "description" : "Mi Nombre es Hamilton Acevedo soy una persona que le gusta el desarrollo web y la nueva tecnología que no ofrece cada día con el pasar de los tiempos considero que todo uno lo puede aprender, pero si lo necesario para poder crea los proyectos lo suficiente mente apropiados para el usuario,  Pienso que al elegir ser ingeniero de sistemas y dedicarme a ello es que toda la vida que siga con esta carrera no voy a poder de para con lo maravillo que la ingeniería de sistema poder crear y brindarles información a las personas de la mejor manera posible",
         "url":"https://github.com/Ediel96/Spring-bootApi-Udemy",
         "img":"../assets/img/proyect/docker.jpg"
     }
